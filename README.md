@@ -1,4 +1,4 @@
 # cliffestopixels
-this is fest hackathon respository
+This is fest hackathon respository
 <br>
 Leader - Mohd Faiz
